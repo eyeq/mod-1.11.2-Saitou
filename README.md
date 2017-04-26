@@ -9,3 +9,4 @@
 登場する人物・団体は架空のものです。  
 
 <img src="https://github.com/eyeq/mod-1.11.2-Saitou/blob/master/screenshots/%E6%96%89%E8%97%A4%E3%81%95%E3%82%93(Mr.%20Saitou).png" width="320px">  
+斉藤さん
